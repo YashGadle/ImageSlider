@@ -10,7 +10,7 @@
     "@types/react": "^16.4.18",
     "@types/react-native": "^0.57.7",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4",
+    "react-native": "0.70.2",
     "react-native-linear-gradient": "^2.4.3"
   },
   "devDependencies": {
